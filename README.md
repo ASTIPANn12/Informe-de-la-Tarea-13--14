@@ -87,8 +87,23 @@ ___SECCIÓN 13–4 Inductores en circuitos de cd___
 
 # Video 
 
+https://youtu.be/23qWW3Lclis
 
+# Conclusiones 
  
+ En conclusión es fundamental el estudio y el aprendizaje de las distintas unidades y cantidades fundamentales para un buen desarrollo de materia de fundamentos de circuitos eléctricos.
+
+Se concluye que la utilización correcta de la notación de ingeniería y prefijos métricos ayudara a la obtención de resultados más exactos en problemas de circuitos eléctricos.
+
+El uso correcto de los objetos y aparatos eléctricos nos permitirá prevenir desastres que pueden ocurrir al momento de la manipulación de los distintos aparatos u objetos a utilizarse a lo largo del estudio de fundamentos eléctricos.
+
+# Bibliografia 
+
+Rodriguez, D. (2020). FLOYD OCTAVA EDICIÓN Principios de circuitos eléctricos. Principios de circuitos eléctricos. https://www.academia.edu/42923009/FLOYD_OCTAVA_EDICI%C3%93N_Principios_de_circuitos_el%C3%A9ctricos
+
+Alzate, O. F. (2019, September 28). Fuente de corriente. http://localhost. http://codigoelectronica.com/blog/fuente-corriente
+
+Silva, J. (2020). Circuitos Eléctricos -Dorf Circuitos Eléctricos. https://www.academia.edu/42154708/Circuitos_El%C3%A9ctricos_Dorf_Circuitos_El%C3%A9ctricos
 
 
 
